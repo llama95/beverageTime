@@ -6,12 +6,19 @@ higher weights (those who spend more on their coffee) have a larger portion of t
 higher probability of being selected since their range is larger within the total weight range. 
 
 To compile: 
+
   cd to --> beverageTime/src/main/java/org/example 
+  
   run command --> javac CoffeePayment.java
+  
   *** Program Compiles *** (See created .class file in beverageTime/src/main/java/org/example)
 
 To run:
+
   cd to --> /beverageTime/src/main/java 
+  
   run command --> java org.example.CoffeePayment
+  
   *** Program begins *** (Select (S) or (M))
+  
 ~ Enjoy ~
