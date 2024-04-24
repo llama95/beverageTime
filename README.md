@@ -9,6 +9,7 @@ To compile:
   cd to --> beverageTime/src/main/java/org/example 
   run command --> javac CoffeePayment.java
   *** Program Compiles *** (See created .class file in beverageTime/src/main/java/org/example)
+
 To run:
   cd to --> /beverageTime/src/main/java 
   run command --> java org.example.CoffeePayment
