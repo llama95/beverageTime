@@ -14,4 +14,4 @@ To run:
   cd to --> /beverageTime/src/main/java 
   run command --> java org.example.CoffeePayment
   *** Program begins *** (Select (S) or (M))
-~Enjoy~
+~ Enjoy ~
