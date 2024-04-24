@@ -5,6 +5,11 @@ will have a greater chance of being selected and we avoid iterating through the 
 higher weights (those who spend more on their coffee) have a larger portion of the range assigned to them, therefore having a 
 higher probability of being selected since their range is larger within the total weight range. 
 
+To clone: 
+  Open your command prompt / terminal tool
+
+  run command --> git clone https://github.com/llama95/beverageTime.git
+
 To compile: 
 
   cd to --> beverageTime/src/main/java/org/example 
